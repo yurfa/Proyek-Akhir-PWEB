@@ -1,0 +1,101 @@
+.menu{
+	padding: 5px;
+	border-radius: 10px;
+}
+.row:hover{
+	background-color: #f5f5dc;
+}
+#bg1{
+	background-image: images('bg2.png');
+}
+.img-circle{
+	animation-timing-function: ease-in;
+}
+.rad{
+	border-radius: 10px;
+}
+body{
+	background-color: #f5f5dc;
+}
+.logo{float:left;height:50px;padding:0px 0px;font-size:18px;line-height:0px}
+.banner {
+	background: black url("../images/bg4.jpg") no-repeat center center;
+	background-size: 100%;
+	background-position: fixed;
+	padding: 20% 20%;
+	text-align: center;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.banner2 {
+	background: black url("../images/bg2.png") no-repeat center center;
+	background-size: 100%;
+	background-position: fixed;
+	padding: 20% 20%;
+	text-align: center;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.banner3 {
+	background: black url("../images/bg5.png") no-repeat center center;
+	background-size: 100%;
+	background-position: fixed;
+	padding: 20% 20%;
+	text-align: center;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.font1 {font-family: 'Pacifico', cursive;
+	color: 	#8c1717;}
+.font2 {font-family: 'Lobster Two', cursive;
+	text-align: center;
+	font-size: 30px; }
+.font3 {font-family: 'Ranga', cursive;
+	text-align: center;}
+.font4 {font-family: 'Indie Flower', cursive;
+	text-align: right;
+	color : #fff;
+	font-size : 20px;}
+.font5 {font-family: 'Chewy', cursive;}
+.font6 {font-family: 'Satisfy', cursive;
+	color : #800000;
+	font-size : 40px;}
+.font7 {font-family: 'Chewy', cursive;
+	color : #CD5C5C;
+	font-size : 20px;}
+.font8 {font-family: 'Ranga', cursive;
+	color : #CD5C5C;
+	font-size : 20px;
+	text-align: center;}
+.font9 {
+	color : #CD5C5C;
+	font-size : 18px;
+	font-weight: bolder;
+	}
+.font10 {font-family: 'Chewy', cursive;
+	color : #CD5C5C;
+	}
+.font11 {color : #fff;}
+.hour {font-family: 'Chewy', cursive;
+	font-size: 16px;
+	color : #CD5C5C;
+}
+#kontak{
+	background-color: #101010;
+	color: #fff;
+}
+.mlist:hover{
+	background-color: #d5c4a1;
+	opacity: 2;
+	font-color: white;
+}
+.font12{color : #800000;font-family: 'Chewy', cursive;font-size: 18px}
+.btn:hover{background-color: white;
+	font-color: black;
+	font-weight: bold;}
+.btn{background-color: black;
+	font-color: red;
+	font-weight: bold;}
